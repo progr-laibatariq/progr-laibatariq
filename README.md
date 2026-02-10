@@ -1,3 +1,4 @@
+<!-- Animated typing header - displays rotating messages about Laiba's profile -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Laiba+Tariq;Computer+Science+Student;Aspiring+Software+Engineer;Building+In+Public+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
@@ -66,8 +67,8 @@ I am a **proactive developer** who bridges the gap between classroom theory and 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=progr-laibatariq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progr-laibatariq&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=progr-laibatariq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics showing commits, pull requests, issues, and contributions" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progr-laibatariq&theme=tokyonight&hide_border=true" alt="GitHub contribution streak showing consecutive days of activity" height="180"/>
 </p>
 
 <p align="center">
@@ -75,7 +76,7 @@ I am a **proactive developer** who bridges the gap between classroom theory and 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=progr-laibatariq&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=progr-laibatariq&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub achievement trophies and badges earned through contributions"/>
 </p>
 
 ---
