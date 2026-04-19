@@ -1,9 +1,9 @@
 # 🚀 Hello, I'm Laiba Tariq! 👋  
 
-🎓 **3rd Semester Computer Science Student** @ **GIFT University**
+🎓 **4th Semester Computer Science Student** @ **GIFT University**
 
 I am a proactive developer who bridges the gap between classroom theory and real-world deployment.  
-As an extrovert who loves **“building in public,”** I'm currently launching a social media journey to share my coding insights inside and outside the classroom.
+As an extrovert who loves **“building in public,”** 
 
 ---
 
